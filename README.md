@@ -3,13 +3,13 @@ Nate started Interactive Balance in 2009 building custom Learning Management Sys
 
 >Nate Geier *Owner*  
 >[Interactive Balancee](http://interactivebalance.com)  
-><willieviseoae@gmail.com>  
+><nate@interactivebalance.com>  
 >541.521-7967  
 >800 NW 6th Ave, #201  
 >Portland, OR 97209  
 
 Skills:  
-[Node.js](http://nodejs.org/) | [jQuery](http://jquery.com) | `MVC` | `JavaScript` | `HTML5` | `CSS3` | 'Jade' | 'Stylus' | [Express.js](http://expressjs.com/) | NoSQL (MongoDB + Mongoose) | MySQL | [AngularJS](http://angularjs.org/) | [Foundation (Responsive CSS)](http://foundation.zurb.com/) | 'Design' | 'Managment' | 'Budgets'
+[Node.js](http://nodejs.org/) | [jQuery](http://jquery.com) | `MVC` | `JavaScript` | `HTML5` | `CSS3` | `Jade` | `Stylus` | [Express.js](http://expressjs.com/) | NoSQL (MongoDB + Mongoose) | MySQL | [AngularJS](http://angularjs.org/) | [Foundation (Responsive CSS)](http://foundation.zurb.com/) | `Design` | `Managment` | `Budgets`
 
 
 
@@ -22,19 +22,19 @@ Blog where I write about solutions, problems, and process.
 **[WynGlobal](http://wynglobal.com/)**  
 All translated 
 
-**[github:CascadeEnergy](http://wyndhamonboarding.com/)**  
+**[Wyndham](http://wyndhamonboarding.com/)**  
 A project that handles daily complex cronjob tasks that load all of Wyndham's properties to our MySQL database, updates users, and transfers daily encrypted quiz data to Wyndham's Servers.
 
-**[stackoverflow](http://mydestinationsuper.com/)**  
+**[Super 8](http://mydestinationsuper.com/)**  
 The original Systems
 
 ## EDUCATION: 
 
-University of Oregon, `BA Journalismm` September June 2008 
+University of Oregon, BA Journalism September June 2008 
 
 
 ## EMPLOYMENT:
-[Interactive Balance](http://interactivebalance.com/) - 2009-Present, Owner
+[Interactive Balancee](http://interactivebalance.com/) - 2009-Present, Owner  
 [SK+G](http://www.skgadvertising.com/) Interactive – Las Vegas – 2008-2009  
 
 
