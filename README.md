@@ -9,7 +9,7 @@ Nate started Interactive Balance in 2009 building custom Learning Management Sys
 >Portland, OR 97209  
 
 Skills:  
-[Node.js](http://nodejs.org/) | [jQuery](http://jquery.com) | `MVC` | `JavaScript` | `HTML5` | `CSS3` | 'Jade' | 'Stylus' | [Express.js](http://expressjs.com/) | NoSQL (MongoDB + Mongoose) | MySQL | [AngularJS](http://angularjs.org/) | 'Design' | 'Managment' | 'Budgets'
+[Node.js](http://nodejs.org/) | [jQuery](http://jquery.com) | `MVC` | `JavaScript` | `HTML5` | `CSS3` | 'Jade' | 'Stylus' | [Express.js](http://expressjs.com/) | NoSQL (MongoDB + Mongoose) | MySQL | [AngularJS](http://angularjs.org/) | [Foundation (Responsive CSS)](http://foundation.zurb.com/) | 'Design' | 'Managment' | 'Budgets'
 
 
 
