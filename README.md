@@ -4,24 +4,25 @@ I started Interactive Balance in 2009 building custom Learning Management System
 >Nate Geier *Owner*  
 >[Interactive Balancee](http://interactivebalance.com)  
 ><nate@interactivebalance.com>  
+>[Interactive Balancee](http://interactivebalance.com)  
+====
 >[twitter](https://twitter.com/nategeier)  
 >[github](https://github.com/nategeier)  
 >[google+](https://plus.google.com/u/0/+NateGeier/about)  
->[Interactive Balancee](http://interactivebalance.com)  
-
+====
 >541.521-7967  
 >800 NW 6th Ave, #201  
 >Portland, OR 97209  
 
 Skills:  
-[Node.js](http://nodejs.org/) | [jQuery](http://jquery.com) | `MVC` | `JavaScript` | `HTML5` | `CSS3` | `Jade` | `Stylus` | [Express.js](http://expressjs.com/) | `NoSQL (MongoDB + Mongoose)` | MySQL | [AngularJS](http://angularjs.org/) | [Foundation (Responsive CSS)](http://foundation.zurb.com/) | `Designn` | `Managementt` | `Budgets`
+[Node.js](http://nodejs.org/) | `Linux` | [NGINX](http://wiki.nginx.org/Main) | `MVC` | `JavaScript` | [jQuery](http://jquery.com) | `HTML5` | `CSS3` | `Jade` | `Stylus` | [Express.js](http://expressjs.com/) | `NoSQL (MongoDB + Mongoose)` | MySQL | [AngularJS](http://angularjs.org/) | [Foundation (Responsive CSS)](http://foundation.zurb.com/) | `Designn` | `Managementt` | `Budgets`
 
 ## Upcoming Node Speech
-I was asked to join a group of 24 Entrepreneurs to speak at [NodeSummit](http://nodesummit.com/speakers/) in San Fransisco Dec 4th.
+I was asked to join a group of 24 Entrepreneurs to speak at [NodeSummit](http://nodesummit.com/speakers/) in San Fransisco Dec 4th to talk about the first mobile ready Shared Learning Management Systems (SLMS) called EnrollGo
 
 ## Links:
 #### It's all proprietary, but I can show in person. I both designed and developed all systems including front end and back end and database architecture.
-Custom LMS's include course data tracking on a multiple tiers according to properties, Regions, Brands and corporate.
+*Custom LMS's include course data tracking on a multiple tiers according to properties, Regions, Brands and corporate.*
 
 **[LinkBMW](http://linkbmw.com/sessions/new?redir=/)**  
 Sent to all dealerships in the US to help with dealership goals and improve communication within single dealerships.
@@ -40,10 +41,10 @@ University of Oregon, BA Journalism September June 2008
 
 
 ## Employment:
-[Interactive Balance](http://interactivebalance.com/) - 2009-Present, Owner  
+[Interactive Balance](http://interactivebalance.com/) - 2009 - Present *Owner, Developer, Designer, Project Manager, DBA, Support*  
 [SK+G](http://www.skgadvertising.com/) Interactive – Las Vegas – 2008-2009  
 
 
 ### Hobbies:
-Surfing, Bike Polo, Mountain Biking, Rock Climbing, Motorcycles.    
+Surfing, travel (not resorts or cruises), bike polo, mountain biking, rock climbing, motorcycles (have a 1100 Honda Shadow), wilderness, Arduino, Raspberry Pie, beer, coffee, wine, chats, and chess to name a few.
 
