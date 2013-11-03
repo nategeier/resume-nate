@@ -36,10 +36,10 @@ A project that handles daily complex cronjob tasks that load all of Wyndham's pr
 **[Super 8](http://mydestinationsuper.com/)**  
 The original Systems
 
-**[International Market Center](http://iamimc.com/)
+**[International Market Center](http://iamimc.com/)**
 IMC is the world's largest operator of premier showroom space for the furnishings, home décor and gift industries.
 
-**[The Cosmopolitan of Las Vegas](http://costaronline.com/)
+**[The Cosmopolitan of Las Vegas](http://costaronline.com/)**
 The only system still built all in Flash. We pushed the client to move to HTML5 but still request using ie8 as their main browser.
 
 ## Education: 
