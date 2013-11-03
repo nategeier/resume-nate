@@ -5,8 +5,8 @@ I started Interactive Balance in 2009 building custom Learning Management System
 >[Interactive Balancee](http://interactivebalance.com)  
 ><nate@interactivebalance.com>  
 >[twitter](https://twitter.com/nategeier)  
->[github](https://github.com/nategeier)
->[google+](https://plus.google.com/u/0/+NateGeier/about)
+>[github](https://github.com/nategeier)  
+>[google+](https://plus.google.com/u/0/+NateGeier/about)  
 >[Interactive Balancee](http://interactivebalance.com)  
 
 >541.521-7967  
@@ -21,7 +21,6 @@ I was asked to join a group of 24 Entrepreneurs to speak at [NodeSummit](http://
 
 ## Links:
 #### It's all proprietary, but I can show in person. I both designed and developed all systems including front end and back end and database architecture.
-=======
 Custom LMS's include course data tracking on a multiple tiers according to properties, Regions, Brands and corporate.
 
 **[LinkBMW](http://linkbmw.com/sessions/new?redir=/)**  
