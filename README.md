@@ -37,10 +37,10 @@ A project that handles daily complex cronjob tasks that load all of Wyndham's pr
 The original Systems
 
 **[International Market Center](http://iamimc.com/)
- IMC is the world's largest operator of premier showroom space for the furnishings, home décor and gift industries.
+IMC is the world's largest operator of premier showroom space for the furnishings, home décor and gift industries.
 
 **[The Cosmopolitan of Las Vegas](http://costaronline.com/)
-The only system w built still all in Flash. We pushed the client to move to HTML5 but still request using ie8 as their main browser.
+The only system still built all in Flash. We pushed the client to move to HTML5 but still request using ie8 as their main browser.
 
 ## Education: 
 University of Oregon, BA Journalism September June 2008 
