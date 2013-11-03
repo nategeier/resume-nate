@@ -22,7 +22,7 @@ I was asked to join a group of 24 entrepreneurs to speak at [NodeSummit](http://
 
 ## Links
 #### It's all proprietary, but I can show in person. I both designed and developed all systems including front, back and database architecture.
-  *Custom LMS's include course data tracking on a multiple tiers according to properties, regions, brands and corporate.*
+>*Custom LMS's include course data tracking on a multiple tiers according to properties, regions, brands and corporate.*
 
 **[LinkBMW](http://linkbmw.com/sessions/new?redir=/)**  
 Sent to all dealerships in the US to help with dealership goals and improve communication within single dealerships.
