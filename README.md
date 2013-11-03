@@ -5,11 +5,11 @@ I started Interactive Balance in 2009 building custom Learning Management System
 >[Interactive Balancee](http://interactivebalance.com)  
 ><nate@interactivebalance.com>  
 >[Interactive Balancee](http://interactivebalance.com)  
--------
+***
 >[twitter](https://twitter.com/nategeier)  
 >[github](https://github.com/nategeier)  
 >[google+](https://plus.google.com/u/0/+NateGeier/about)  
--------
+***
 >541.521-7967  
 >800 NW 6th Ave, #201  
 >Portland, OR 97209  
