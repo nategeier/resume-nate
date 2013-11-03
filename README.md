@@ -18,11 +18,11 @@ Skills:
 [Node.js](http://nodejs.org/) | `Linux` | [NGINX](http://wiki.nginx.org/Main) | `MVC` | `JavaScript` | [jQuery](http://jquery.com) | `HTML5` | `CSS3` | `Jade` | `Stylus` | [Express.js](http://expressjs.com/) | `NoSQL (MongoDB + Mongoose)` | MySQL | [AngularJS](http://angularjs.org/) | [Foundation (Responsive CSS)](http://foundation.zurb.com/) | `Designn` | `Project Managementt` | `Budgets`
 
 ## Upcoming Node Speech
-I was asked to join a group of 24 Entrepreneurs to speak at [NodeSummit](http://nodesummit.com/speakers/) in San Fransisco Dec 4th to talk about the first mobile ready Shared Learning Management Systems (SLMS) called EnrollGo
+I was asked to join a group of 24 entrepreneurs to speak at [NodeSummit](http://nodesummit.com/speakers/) in San Fransisco Dec 4th to talk about the first mobile ready Shared Learning Management Systems (SLMS) called EnrollGo
 
 ## Links:
-#### It's all proprietary, but I can show in person. I both designed and developed all systems including front end and back end and database architecture.
-*Custom LMS's include course data tracking on a multiple tiers according to properties, Regions, Brands and corporate.*
+#### It's all proprietary, but I can show in person. I both designed and developed all systems including front, back and database architecture.
+*Custom LMS's include course data tracking on a multiple tiers according to properties, regions, brands and corporate.*
 
 **[LinkBMW](http://linkbmw.com/sessions/new?redir=/)**  
 Sent to all dealerships in the US to help with dealership goals and improve communication within single dealerships.
@@ -35,6 +35,12 @@ A project that handles daily complex cronjob tasks that load all of Wyndham's pr
 
 **[Super 8](http://mydestinationsuper.com/)**  
 The original Systems
+
+**[International Market Center](http://iamimc.com/)
+ IMC is the world's largest operator of premier showroom space for the furnishings, home décor and gift industries.
+
+**[The Cosmopolitan of Las Vegas](http://costaronline.com/)
+The only system w built still all in Flash. We pushed the client to move to HTML5 but still request using ie8 as their main browser.
 
 ## Education: 
 University of Oregon, BA Journalism September June 2008 
