@@ -15,7 +15,7 @@ I started Interactive Balance in 2009 building custom Learning Management System
 >Portland, OR 97209  
 
 Skills:  
-[Node.js](http://nodejs.org/) | `Linux` | [NGINX](http://wiki.nginx.org/Main) | `MVC` | `JavaScript` | [jQuery](http://jquery.com) | `HTML5` | `CSS3` | `Jade` | `Stylus` | [Express.js](http://expressjs.com/) | `NoSQL (MongoDB + Mongoose)` | MySQL | [AngularJS](http://angularjs.org/) | [Foundation (Responsive CSS)](http://foundation.zurb.com/) | `Designn` | `Managementt` | `Budgets`
+[Node.js](http://nodejs.org/) | `Linux` | [NGINX](http://wiki.nginx.org/Main) | `MVC` | `JavaScript` | [jQuery](http://jquery.com) | `HTML5` | `CSS3` | `Jade` | `Stylus` | [Express.js](http://expressjs.com/) | `NoSQL (MongoDB + Mongoose)` | MySQL | [AngularJS](http://angularjs.org/) | [Foundation (Responsive CSS)](http://foundation.zurb.com/) | `Designn` | `Project Managementt` | `Budgets`
 
 ## Upcoming Node Speech
 I was asked to join a group of 24 Entrepreneurs to speak at [NodeSummit](http://nodesummit.com/speakers/) in San Fransisco Dec 4th to talk about the first mobile ready Shared Learning Management Systems (SLMS) called EnrollGo
@@ -43,7 +43,8 @@ University of Oregon, BA Journalism September June 2008
 ## Employment:
 [Interactive Balance](http://interactivebalance.com/) - 2009 - Present *Owner, Developer, Designer, Project Manager, DBA, Support*  
 [SK+G](http://www.skgadvertising.com/) Interactive – Las Vegas – 2008-2009  
-
+Marketing at a Scuba Shop in South Africa 2008 *Designed shirts, brochures, organized gatherings, helped with scuba* 
+Wild land Fire fighter Summers of 2005-2007 *Squad boss, sawer, driver*  
 
 ### Hobbies:
 Surfing, travel (not resorts or cruises), bike polo, mountain biking, rock climbing, motorcycles (have a 1100 Honda Shadow), wilderness, Arduino, Raspberry Pie, beer, coffee, wine, chats, and chess to name a few.
