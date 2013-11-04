@@ -14,7 +14,7 @@ I started Interactive Balance in 2009 building custom Learning Management System
 >Portland, OR 97209  
 
 Skills  
-[Node.js](http://nodejs.org/) | `Linux` | [NGINX](http://wiki.nginx.org/Main) | `MVC` | `JavaScript` | [jQuery](http://jquery.com) | `HTML5` | `CSS3` | `Jade` | `Stylus` | [Express.js](http://expressjs.com/) | `NoSQL (MongoDB + Mongoose)` | MySQL | [AngularJS](http://angularjs.org/) | [Foundation (Responsive CSS)](http://foundation.zurb.com/) | `Designn` | `Project Management` | `Budgets` | `Information Architecture`
+[Node.js](http://nodejs.org/) | `Linux` | [NGINX](http://wiki.nginx.org/Main) | `MVC` | `JavaScript` | [jQuery](http://jquery.com) | `HTML5` | `CSS3` | `Jade` | `Stylus` | [Express.js](http://expressjs.com/) | `NoSQL (MongoDB + Mongoose)` | `MySQL` | [AngularJS](http://angularjs.org/) | [Foundation (Responsive CSS)](http://foundation.zurb.com/) | `Designn` | `Project Management` | `Budgets` | `Information Architecture` | `Client Management` 
 
 ## NodeSummit Speech
 I was asked to join a group of 24 entrepreneurs to speak at [NodeSummit](http://nodesummit.com/speakers/) in San Fransisco Dec 4th 2013 to talk about the first mobile ready Shared Learning Management Systems (SLMS) called EnrollGo
