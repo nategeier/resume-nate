@@ -1,9 +1,9 @@
 ###Nate Geier
-I started Interactive Balance in 2009 building custom Learning Management Systems in Flash and PHP for Super 8 Hotels, launching successfully to over 2,000 hotels. Two years later its parent company Wyndham Worldwide wanted the LMS for all 17 major brands worldwide. In early 2012, faced with mobile issues, I gambled on the future of Node 0.6 and rewrote and redesigned everything using ExpressJS, MongoDB, MySql and Angular.
+I started Interactive Balance in 2009 building custom Learning Management Systems in Flash and PHP for a multinational hotel brand, launching successfully to over 2,000 hotels and 50,000+ users. Two years later its parent company wanted the LMS for all 17 major brands worldwide. In early 2012, faced with mobile issues, I gambled on the future of Node 0.6 and rewrote and redesigned everything using ExpressJS, MongoDB, MySql and Angular. (MEAN)
 
->Nate Geier *Owner*  
->[Interactive Balancee](http://interactivebalance.com)  
-><nate@interactivebalance.com>  
+>Nate Geier *CEO*  
+>[Interactive Balancee](http://coursetto.com)  
+><nate@coursetto.com>  
 ***
 >[twitter](https://twitter.com/nategeier)  
 >[github](https://github.com/nategeier)  
@@ -43,7 +43,7 @@ University of Oregon, BA Journalism June 2008
 
 
 ## Employment
-* [Interactive Balance](http://interactivebalance.com/) - 2009 - Present *Owner, Developer, Designer, Project Manager, DBA, Support*  
+* [Interactive Balance] May 2009 - 2013 *Owner, Developer, Designer, Project Manager, DBA, Support*  
 * [SK+G](http://www.skgadvertising.com/) Interactive – Las Vegas – 2008-2009  
 * Marketing at a Scuba Shop in Cape Town, South Africa 2008 *Designed shirts, brochures, organized gatherings, helped with scuba* 
 * Wild land Fire fighter Summers of 2005-2007 *Squad boss, sawer, driver*  
