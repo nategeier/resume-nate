@@ -1,8 +1,12 @@
 ###Nate Geier
-I started Interactive Balance in 2009 building custom Learning Management Systems in Flash and PHP for a multinational hotel brand, launching successfully to over 2,000 hotels and 50,000+ users. Two years later its parent company wanted the LMS for all 17 major brands worldwide. In early 2012, faced with mobile issues, I gambled on the future of Node 0.6 and rewrote and redesigned everything using ExpressJS, MongoDB, MySql and Angular. (MEAN)
+Nate started Interactive Balance LLC in 2009 building custom Learning Management Systems in Flash and PHP for a multinational hotel brand, launching successfully to over 2,000 hotels and 50,000+ users. Two years later its parent company wanted the LMS for all 17 major brands worldwide. In early 2012, faced with mobile issues, Nate gambled on the future of Node 0.6 and rewrote and redesigned everything using ExpressJS, MongoDB, MySql and Angular. (MEAN)  With it's success the platform was curtailed to 4 other industries.
 
->Nate Geier *CEO*  
->[Interactive Balancee](http://coursetto.com)  
+In Septemeber 2013 Nate stopped building the custom platforms and focused on [Coursetto](http://coursetto.com), a SaaS mobile ready company knowledge sharing platform that empowers anyone in a company to create, purchase, distribute, and track courses.
+
+
+
+>Nate Geier *Co-Founder and CEO*  
+>[Coursetto](http://coursetto.com)  
 ><nate@coursetto.com>  
 ***
 >[twitter](https://twitter.com/nategeier)  
