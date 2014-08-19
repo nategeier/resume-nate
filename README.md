@@ -14,9 +14,9 @@ Why we were successful: Our system delegated completion responsibility to everyo
 * [International Market Centers](http://www.imcenters.com/)
 
 ### Management Philosophy
-Our systems focused on delegation and incremental successes. Know who is capable of what and let them shine.
+Our systems focused on delegation and incremental successes. Know who is capable of what and let them shine.  
 Two points:  
->Always more than one way to skin a cat (sorry internet) 
+>Always more than one way to skin a cat (sorry internet)  
 >Always an exception to the rule. (like jay walking)  
 
 #####I look up to Nelson Mandela
