@@ -1,10 +1,21 @@
 ###Nate Geier
-Nate founded Interactive Balance LLC in 2009 building custom Learning Management Systems in Flash and PHP for a multinational hotel brand, launching successfully to over 2,000 hotels and 50,000+ users. Two years later its parent company wanted the LMS for all 17 major brands worldwide. In early 2012, faced with mobile issues, Nate gambled on the future of Node 0.6 and rewrote + redesigned everything using ExpressJS, MongoDB, MySql and Angular. (MEAN)  With its success, the platform was curtailed to 4 other industries.
+Nate has been managing and building custom Learning Management Systems and courses from the ground up for worldwide brands since 2009 and using Node.js in production since 2012. In April of 2014, Nate co-founded and launched [Coursetto](http://coursetto.com), a training platform that empowers anyone in a company to create and curate training courses streamlining communication and on-boarding throughout complex organizations. We are disrupting the training world as wordpress did to the custome site developers.
 
-In September 2013 Nate stopped building custom platforms and focused on [Coursetto](http://coursetto.com), a SaaS mobile ready knowledge-sharing platform that empowers anyone a company to create and curate courses for new and current hires.
+Online training aside, Nate has a unique way of relating to almost anyone on all sides of the corporate and startup community from the engineers and designers to the board of directors. With a journalism degree from the University of Oregon, travels to South Africa, wildland firefighting, college wrestling, motorcycles and surfing, he can get a good connection out of someone in some form or another.
 
+Nate is the most tenacious person you will meet. It's hard to pin him down, but once he has a focus and a goal no matter how big, he will execute.
 
->Nate Geier *Co-Founder and CEO*  
+### LMS Systems created
+* [Wyndham Worldwide](all 17 brands)(http://wyndhamonboarding.com/)
+* [Super 8 Hotels](http://mydestinationsuper.com/)
+* [The Cosmopolitan od Las Vegas](http://costaronline.com/)
+* [International Market Centers](http://www.imcenters.com/) 
+
+##role
+----
+Tasked to design, develop, support, and deploy training systems to over 50,000 users, managing creative, engineering, data structures, voice talent, writers, and designers.
+
+>Nate Geier *CEO and Co-Founder*  
 >[Coursetto](http://coursetto.com)  
 ><nate@coursetto.com>  
 ***
@@ -12,24 +23,26 @@ In September 2013 Nate stopped building custom platforms and focused on [Courset
 >[github](https://github.com/nategeier)  
 >[google+](https://plus.google.com/u/0/+NateGeier/about)  
 ***
->541.521-7967  
+>(541) 521-7967  
 >800 NW 6th Ave, #201  
 >Portland, OR 97209  
 
 Skills  
-[Node.js](http://nodejs.org/) | `Linux` | [NGINX](http://wiki.nginx.org/Main) | `MVC` | `JavaScript` | [jQuery](http://jquery.com) | `HTML5` | `CSS3` | `Jade` | `Stylus` | [Express.js](http://expressjs.com/) | `NoSQL (MongoDB + Mongoose)` | `MySQL` | [AngularJS](http://angularjs.org/) | [Foundation (Responsive CSS)](http://foundation.zurb.com/) | `Designn` | `Project Management` | `Budgets` | `Information Architecture` | `Client Management` 
-
-## NodeSummit Speech
-Spoke to of 500+ technology engineers from eBay, GroupOn, Walmart and many more at [NodeSummit](http://nodesummit.com/speakers/) to talk about the technologies we used for [Coursetto](http://coursetto.com) in San Fransisco Dec 2013.
-
-[Presentationn](https://drive.google.com/#folders/0B5lcGn6L406lQVo5TGdGLWozNmM)
+Speaking | [Node.js](http://nodejs.org/) | `Linux` | [NGINX](http://wiki.nginx.org/Main) | `MVC` | `JavaScript` | [jQuery](http://jquery.com) | `HTML5` | `CSS3` | `Jade` | `Stylus` | [Express.js](http://expressjs.com/) | `NoSQL (MongoDB + Mongoose)` | `MySQL` | [AngularJS](http://angularjs.org/) | [Bootstrap (Responsive CSS)](http://getbootstrap.com/css/) | [Sass (CSS with superpowers)](http://sass-lang.com/) | [Foundation (Responsive CSS)](http://foundation.zurb.com/) | `Designn` | `Project Management` | `Budgets` | `Information Architecture` | `Client Management` 
 
 
-## Education
+
+### [NodeSummit Speech](http://bit.ly/1q2tihd)  
+[Spoke to 500+ leading technology engineers](https://drive.google.com/#folders/0B5lcGn6L406lQVo5TGdGLWozNmM) from eBay, GroupOn, Walmart and many more at [NodeSummit](http://nodesummit.com/speakers/) ([Presentation](http://bit.ly/1q2tihd)) talking about the cutting-edge technologies used for [Coursetto](http://coursetto.com) in San Francisco, Dec 2013.
+
+### [PDX EdTech Organizer](http://www.meetup.com/PDXedTech/)  
+Group to collaborate with anyone who is working or is interested in working in the Educational Technology space including designers, developers, content creators, and business leaders.
+
+### Education
 University of Oregon, BA Journalism June 2008 
 
 
-## Employment
+### Employment
 * Interactive Balance May 2009 - 2013 *Owner, Developer, Designer, Project Manager, DBA, Support*  
 * [SK+G](http://www.skgadvertising.com/) Interactive – Las Vegas – 2008-2009  
 * Marketing at a Scuba Shop in Cape Town, South Africa 2008 *Creative strategist* 
