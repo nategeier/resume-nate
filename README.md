@@ -25,7 +25,7 @@ I've been to his cell in South Africa and read his massive book "Long Walk to Fr
 
 
 ###Skills  
-I code, I design, I manage, I create.
+#####I code, I design, I manage, I create.
 -------
 Speaking | [Node.js](http://nodejs.org/) | `Linux` | [NGINX](http://wiki.nginx.org/Main) | `MVC` | `JavaScript` | [AngularJS](http://angularjs.org/) | [jQuery](http://jquery.com) | `git` | [github](https://github.com/nategeier) | `HTML5` | `CSS3 + animations` | `Jade` | `Stylus` | [Express.js](http://expressjs.com/) | `NoSQL (MongoDB + Mongoose)` | `MySQL` | [AngularJS](http://angularjs.org/) | [Bootstrap (Responsive CSS)](http://getbootstrap.com/css/) | [Sass (CSS with superpowers)](http://sass-lang.com/) | [Foundation (Responsive CSS)](http://foundation.zurb.com/) | `Design` | `Project Management` | `Budgets` | `Information Architecture` | `Client Management` | 'Agile management'
 
