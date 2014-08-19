@@ -15,15 +15,16 @@ Why we were successful: Our system delegated completion responsibility to everyo
 
 ### Management Philosophy
 Our systems focused on delegation and incremental successes. Know who is capable of what and let them shine.  
-Two points:  
 * Always more than one way to skin a cat (sorry internet)  
 * Always an exception to the rule. (like jay walking)  
 * Deploy early, deploy often, encourage accountability 
 * Nothing is ever perfect, but it better be your best  
 
+>It is better to lead from behind and to put others in front, especially when you celebrate victory when nice things occur. You take the front line when there is danger. Then people will appreciate your leadership. > Nelson Mandela
+
 #####I look up to Nelson Mandela
 I've been to Nelson Mandela's cell in South Africa and read his massive book ["Long Walk to Freedom"](http://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189) cover to cover.
->It is better to lead from behind and to put others in front, especially when you celebrate victory when nice things occur. You take the front line when there is danger. Then people will appreciate your leadership.
+
 
 ####Entrepreneur Advisors
 Ryan Carson  
