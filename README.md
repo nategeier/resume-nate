@@ -22,17 +22,16 @@ Our systems focused on delegation and incremental successes. Know who is capable
 
 >It is better to lead from behind and to put others in front, especially when you celebrate victory when nice things occur. You take the front line when there is danger. Then people will appreciate your leadership. > Nelson Mandela
 
-#####I look up to Nelson Mandela
-I've been to Nelson Mandela's cell in South Africa and read his massive book ["Long Walk to Freedom"](http://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189) cover to cover.
+I've been to Mandela's cell on Robin Island in South Africa and read his massive book ["Long Walk to Freedom"](http://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189) cover to cover. The man knows how to lead.
 
 
 ####Entrepreneur Advisors
-Ryan Carson  
+**Ryan Carson**  
 CEO Treehouse  
 > 1) The idea is solid and could really help companies  
 2) Nate will work extremely hard to make it succeed
 
-David Nelsen  
+**David Nelsen**  
 Last venture was Giftango, Sold to InComm  
 > Coursetto has motivated entrepreneurs trying to build something great. Analyzing to see what potential exists in the space; will be more interested if the research for market-opportunity comes back interesting.  
 
