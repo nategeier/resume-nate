@@ -16,10 +16,10 @@ Nate is the most tenacious person you will meet. It's hard to pin him down, but 
 ### Management Philosophy
 Our systems focused on delegation and incremental successes. Know who is capable of what and let them shine.
 
-##Cliché time:  
+####Cliché time:  
 >There's always more than one way to skin a cat and there is always an exception to the rule.  
 
-##Mentor: Nelson Mandela
+####Mentor: Nelson Mandela
 I've been to his cell in South Africa and read his massive book "Long Walk to Freedom" cover to cover.
 >It is better to lead from behind and to put others in front, especially when you celebrate victory when nice things occur. You take the front line when there is danger. Then people will appreciate your leadership.
 
