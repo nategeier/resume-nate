@@ -14,7 +14,7 @@ Why we were successful: Our system delegated completion responsibility to everyo
 * [International Market Centers](http://www.imcenters.com/)
 
 ### Management Philosophy
-Our systems focused on delegation and incremental successes. Know who is capable of what and let them shine.  
+Just like our LMS systems focused on delegation and incremental successes same goes for my management philosophy. Know who is capable of what and let them shine.  
 * Deploy early, deploy often, encourage accountability 
 * Docs, read and write them.
 * Agile this, agile that.
