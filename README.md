@@ -6,7 +6,7 @@ Online training aside, Nate has a unique way of relating to almost anyone on all
 Nate is the most tenacious person you will meet. It's hard to pin him down, but once he has a focus and a goal no matter how big, he will execute.
 
 ### LMS Systems created
-Why we were successful: Our system delegated completion responsibility to everyone in management on all levels. A GM of a property saw in simple graphs their domains success or failures. Same went for regional managers and Corporate.
+Why we were successful: Our system delegated completion responsibility to everyone in management on all levels. A GM of a property saw in simple graphs their domains success or failures. Same went for regional managers and corporate.
 * Wyndham Worldwide (Days Inn, Microtel, Ramada, etc) GM management on-boarding
 * Wyndham Worldwide Latin America
 * Super 8 Hotels (all employees across 2,000+ properties)
@@ -17,7 +17,7 @@ Why we were successful: Our system delegated completion responsibility to everyo
 Our systems focused on delegation and incremental successes. Know who is capable of what and let them shine.
 >There's always more than one way to skin a cat && there is always an exception to the rule.  
 
-####I look up to Nelson Mandela
+#####I look up to Nelson Mandela
 I've been to his cell in South Africa and read his massive book ["Long Walk to Freedom"](http://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189) cover to cover.
 >It is better to lead from behind and to put others in front, especially when you celebrate victory when nice things occur. You take the front line when there is danger. Then people will appreciate your leadership.
 
