@@ -15,34 +15,36 @@ Why we were successful: Our system delegated completion responsibility to everyo
 
 ### Management Philosophy
 Our systems focused on delegation and incremental successes. Know who is capable of what and let them shine.
->There's always more than one way to skin a cat && there is always an exception to the rule.  
+Two points:  
+>Always more than one way to skin a cat (sorry internet) 
+>Always an exception to the rule. (like jay walking)  
 
 #####I look up to Nelson Mandela
-I've been to his cell in South Africa and read his massive book ["Long Walk to Freedom"](http://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189) cover to cover.
+I've been to Nelson Mandela's cell in South Africa and read his massive book ["Long Walk to Freedom"](http://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189) cover to cover.
 >It is better to lead from behind and to put others in front, especially when you celebrate victory when nice things occur. You take the front line when there is danger. Then people will appreciate your leadership.
 
 ####Entrepreneur Advisors
 Ryan Carson  
 CEO Treehouse  
-> 1) The idea is solid and could really help companies
+> 1) The idea is solid and could really help companies  
 2) Nate will work extremely hard to make it succeed
 
-David Nelsen
+David Nelsen  
 Last venture was Giftango, Sold to InComm  
 > Coursetto has motivated entrepreneurs trying to build something great. Analyzing to see what potential exists in the space; will be more interested if the research for market-opportunity comes back interesting.  
 
 ###Skills  
-#####I code, design, manage, create.
+#####I code, design, manage, create. Really.
 -------
 Speaking | [Node.js](http://nodejs.org/) | `Linux` | [NGINX](http://wiki.nginx.org/Main) | `MVC` | `JavaScript` | [AngularJS](http://angularjs.org/) | [jQuery](http://jquery.com) | `git` | [github](https://github.com/nategeier) | `HTML5` | `CSS3 + animations` | `Jade` | `Stylus` | [Express.js](http://expressjs.com/) | `NoSQL (MongoDB + Mongoose)` | `MySQL` | [AngularJS](http://angularjs.org/) | [Bootstrap (Responsive CSS)](http://getbootstrap.com/css/) | [Sass (CSS with superpowers)](http://sass-lang.com/) | [Foundation (Responsive CSS)](http://foundation.zurb.com/) | `Design` | `Project Management` | `Budgets` | `Information Architecture` | `Client Management` | 'Agile management' | 'After Effects'
 
 
 
 ### [NodeSummit Speech](http://bit.ly/1q2tihd)  
-[Spoke to 500+ leading technology engineers](https://drive.google.com/#folders/0B5lcGn6L406lQVo5TGdGLWozNmM) from eBay, GroupOn, Walmart and many more at [NodeSummit](http://nodesummit.com/speakers/) ([Presentation](http://bit.ly/1q2tihd)) talking about the cutting-edge technologies used for [Coursetto](http://coursetto.com) in San Francisco, Dec 2013.
+Spoke to 500+ leading technology engineers from eBay, GroupOn, Walmart and many more at [NodeSummit](http://nodesummit.com/speakers/) ([Presentation [video]](http://bit.ly/1q2tihd)) talking about the cutting-edge technologies used for [Coursetto](http://coursetto.com) in San Francisco, Dec 2013.
 
 ### [PDX EdTech Organizer](http://www.meetup.com/PDXedTech/)  
-Group to collaborate with anyone who is working or is interested in working in the Educational Technology space including designers, developers, content creators, and business leaders.
+Group to collaborate with anyone who is working or is interested in working in the Educational Technology space including designers, developers, content creators, and business leaders. 92 members to date. [link](http://www.meetup.com/PDXedTech/)  
 
 ### [Press: Training made easy](http://www.bizjournals.com/portland/print-edition/2014/06/20/training-made-easy.html)  
 Portland Business Journal [Training made easy](http://www.bizjournals.com/portland/print-edition/2014/06/20/training-made-easy.html)  
