@@ -6,35 +6,25 @@ Online training aside, Nate has a unique way of relating to almost anyone on all
 Nate is the most tenacious person you will meet. It's hard to pin him down, but once he has a focus and a goal no matter how big, he will execute.
 
 ### LMS Systems created
-> Why we were successful: Delegating the training completion tracking to everyone in complex company organizations.
-* Wyndham Worldwide US all 17 brands (Days Inn, Microtel, Ramada....) GM management on-boarding
+> Why we were successful: Our system delegated completion responsibility to everyone in management on all levels. A GM of a property saw in simple graphs their domains success or failures. Same went for regional managers and Corporate.
+* Wyndham Worldwide (Days Inn, Microtel, Ramada, etc) GM management on-boarding
 * Wyndham Worldwide Latin America
 * Super 8 Hotels (all employees across 2,000+ properties)
 * The Cosmopolitan of Las Vegas
-* International Market Centers
+* [International Market Centers](http://www.imcenters.com/)
 
 ### Management Philosophy
-All the systems I've built focus on delegation and incremental successes. Know who is capable of what and let them shine.
+Our systems focused on delegation and incremental successes. Know who is capable of what and let them shine.
 
-Cliché time: There's always more than one way to skin a cat and there is always an exception to the rule.
-Mentor: Nelson Mandela
-I've been to his cell in South Africa and read his massive book "Long Walk to Freedum" cover to cover.
+##Cliché time:  
+>There's always more than one way to skin a cat and there is always an exception to the rule.  
+
+##Mentor: Nelson Mandela
+I've been to his cell in South Africa and read his massive book "Long Walk to Freedom" cover to cover.
 >It is better to lead from behind and to put others in front, especially when you celebrate victory when nice things occur. You take the front line when there is danger. Then people will appreciate your leadership.
 
 
->Nate Geier *CEO and Co-Founder*  
->[Coursetto](http://coursetto.com)  
-><nate@coursetto.com>  
-***
->[twitter](https://twitter.com/nategeier)  
->[github](https://github.com/nategeier)  
->[google+](https://plus.google.com/u/0/+NateGeier/about)  
-***
->(541) 521-7967  
->800 NW 6th Ave, #201  
->Portland, OR 97209  
-
-Skills  
+###Skills  
 Speaking | [Node.js](http://nodejs.org/) | `Linux` | [NGINX](http://wiki.nginx.org/Main) | `MVC` | `JavaScript` | [AngularJS](http://angularjs.org/) | [jQuery](http://jquery.com) | `git` | [github](https://github.com/nategeier) | `HTML5` | `CSS3 + animations` | `Jade` | `Stylus` | [Express.js](http://expressjs.com/) | `NoSQL (MongoDB + Mongoose)` | `MySQL` | [AngularJS](http://angularjs.org/) | [Bootstrap (Responsive CSS)](http://getbootstrap.com/css/) | [Sass (CSS with superpowers)](http://sass-lang.com/) | [Foundation (Responsive CSS)](http://foundation.zurb.com/) | `Design` | `Project Management` | `Budgets` | `Information Architecture` | `Client Management` 
 
 
@@ -60,4 +50,17 @@ University of Oregon, BA Journalism June 2008
 
 ### Hobbies
 Surfing, travel, bike polo, mountain biking, rock climbing, motorcycles, wilderness, Arduino, Raspberry Pie, beer, coffee, wine, chats, and chess to name a few.
+
+### Contact
+>Nate Geier *CEO and Co-Founder*  
+>[Coursetto](http://coursetto.com)  
+><nate@coursetto.com>  
+***
+>[twitter](https://twitter.com/nategeier)  
+>[github](https://github.com/nategeier)  
+>[google+](https://plus.google.com/u/0/+NateGeier/about)  
+***
+>(541) 521-7967  
+>800 NW 6th Ave, #201  
+>Portland, OR 97209  
 
