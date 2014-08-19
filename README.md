@@ -5,7 +5,7 @@ Online training aside, Nate has a unique way of relating to almost anyone on all
 
 Nate is the most tenacious person you will meet. It's hard to pin him down, but once he has a focus and a goal no matter how big, he will execute.
 
-### LMS Systems created
+### Training Systems created
 Why we were successful: Our system delegated completion responsibility to everyone in management on all levels. A GM of a property saw in simple graphs their domains success or failures. Same went for regional managers and corporate.
 * Wyndham Worldwide (Days Inn, Microtel, Ramada, etc) GM management on-boarding
 * Wyndham Worldwide Latin America
@@ -14,17 +14,19 @@ Why we were successful: Our system delegated completion responsibility to everyo
 * [International Market Centers](http://www.imcenters.com/)
 
 ### Management Philosophy
-Just like our LMS systems focused on delegation and incremental successes same goes for my management philosophy. Know who is capable of what and let them shine.  
+Just like our systems focused on delegation and incremental successes same goes for my management philosophy. Know who is capable of what and let them shine.  
 * Deploy early, deploy often, encourage accountability 
 * Docs, read and write them.
 * Agile this, agile that.
-* Always more than one way to skin a cat (sorry internet)  
-* Always an exception to the rule. (like jay walking)  
-* Nothing is ever perfect, but it better be your best  
+* Always more than one way to skin a cat (sorry internet).  
+* Always an exception to the rule. (like jay walking).  
+* Nothing is ever perfect, but it better be your best.  
 
 >"It is better to lead from behind and to put others in front, especially when you celebrate victory when nice things occur. You take the front line when there is danger. Then people will appreciate your leadership." > Nelson Mandela
 
-I've been to Mandela's cell on Robin Island in South Africa and read his massive book ["Long Walk to Freedom"](http://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189) cover to cover. The man knows how to lead.
+I've been to Mandela's cell on Robin Island in South Africa, and read his massive book ["Long Walk to Freedom"](http://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189) cover to cover. The man knows how to lead.  
+
+Philosophy in general Aristotle: Fill your tilos  
 
 
 ####Entrepreneur Advisors
