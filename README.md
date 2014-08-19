@@ -1,17 +1,26 @@
 ###Nate Geier
-Nate has been building custom Learning Management Systems and courses from the ground up for worldwide brands since 2009. His roll is all over from managing writers, designers, developers, database admins, and sound talent to actually getting in cutting sound, structuring schema, setting up deployment processes, and coding in all things web app front and back. He bet on the future of Node.js 0.6 in 2012 and has been using it in production since. In April of 2014, Nate co-founded and launched [Coursetto](http://coursetto.com), a training platform that empowers anyone in a company to create and curate training courses streamlining communication and on-boarding throughout complex organizations. We are disrupting the training world as Wordpress did to the custom site developers.
+Nate has been building custom Learning Management Systems and courses from the ground up for worldwide brands since 2009. His roll is all over from managing writers, designers, developers, database admins, and sound talent to actually getting in cutting sound, structuring schema, setting up deployment processes, and coding in all things web app front and back. He bet on the future of Node.js 0.6 in 2012 and has been using it in production since. In April of 2014, Nate co-founded and launched [Coursetto](http://coursetto.com), a training platform that empowers anyone in a company to create and curate training courses streamlining communication and on-boarding throughout complex organizations. We are disrupting the training world as Wordpress did to the custom site developers and encouraging domain knowledge empowerment.
 
 Online training aside, Nate has a unique way of relating to almost anyone on all sides of the corporate and startup community from the engineers and designers to the board of directors. With a journalism degree from the University of Oregon, travels to South Africa, wildland firefighting, college wrestling, motorcycles and surfing, he can get a good connection out of someone in some form or another.
 
 Nate is the most tenacious person you will meet. It's hard to pin him down, but once he has a focus and a goal no matter how big, he will execute.
 
 ### LMS Systems created
+> Why we were successful: Delegating the training completion tracking to everyone in complex company organizations.
 * Wyndham Worldwide US all 17 brands (Days Inn, Microtel, Ramada....) GM management on-boarding
 * Wyndham Worldwide Latin America
 * Super 8 Hotels (all employees across 2,000+ properties)
 * The Cosmopolitan of Las Vegas
 * International Market Centers
 
+### Management Philosophy
+All the systems I've built focus on delegation and incremental successes. Know who is capable of what and let them shine.
+
+Cliché time: There's always more than one way to skin a cat and there is always an exception to the rule.
+Mentor: Nelson Mandela
+I've been to his cell in South Africa and read his massive book "Long Walk to Freedum" cover to cover.
+>It is better to lead from behind and to put others in front, especially when you celebrate victory when nice things occur. You take the front line when there is danger. Then people will appreciate your leadership.
+Read more at http://www.brainyquote.com/quotes/quotes/n/nelsonmand393048.html#EPZ2BxX3C4flzwqH.99
 
 >Nate Geier *CEO and Co-Founder*  
 >[Coursetto](http://coursetto.com)  
