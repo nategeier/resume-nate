@@ -32,12 +32,11 @@ Philosophy in general Aristotle: Fill your tilos
 ####Entrepreneur Advisors
 **Ryan Carson**  
 CEO Treehouse  
-> 1) The idea is solid and could really help companies  
-2) Nate will work extremely hard to make it succeed
+> “Nate is an extremely dedicated yet humble entrepreneur. I believe he will succeed!”
 
 **David Nelsen**  
 Last venture was Giftango, Sold to InComm  
-> Coursetto has motivated entrepreneurs trying to build something great. Analyzing to see what potential exists in the space; will be more interested if the research for market-opportunity comes back interesting.  
+> "Coursetto has motivated entrepreneurs trying to build something great. Analyzing to see what potential exists in the space; will be more interested if the research for market-opportunity comes back interesting.""  
 
 ###Skills  
 #####I code, design, manage, create. Really.
