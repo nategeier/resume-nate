@@ -1,24 +1,21 @@
 ###Nate Geier
-Nate has been building custom Learning Management Systems and courses from the ground up for worldwide brands since 2009. His roll is all over from managing writers, designers, developers, database admins, and sound talent to actually getting in cutting sound, structuring schemas, setting up deployment processes, and coding in all things web front and back. He has been running Node.js in production since 2012 v0.6. In April of 2014, Nate co-founded and launched [Coursetto](http://coursetto.com), a training platform that empowers anyone in a company to create and curate training courses streamlining communication and on-boarding throughout complex organizations. 
-
-Online training aside, Nate has a unique way of relating to almost anyone on all sides of the corporate and startup community from the engineers and designers to the board of directors. With a journalism degree from the University of Oregon, travels to South Africa, wildland firefighting, college wrestling, motorcycles, and surfing, he can get a good connection out of someone in some form or another.
+Nate has been building custom Learning Management Systems and courses from the ground up for worldwide brands since 2009. His roll is all over from managing writers, designers, developers, database admins, and sound talent to actually getting in cutting sound, structuring database schemas, setting up deployment processes, and coding + designing in all things web front and back. He has been running Node.js in production since 2012 v0.6. In April of 2014, Nate co-founded and launched [Coursetto](http://coursetto.com), a training platform that empowers anyone in a company to create and curate training courses streamlining communication and on-boarding throughout complex organizations. 
 
 Nate is the most tenacious person you will meet. It's hard to pin him down, but once he has a focus and a goal no matter how big, he will execute.
 
-### Training Systems created
-Why we were successful: Our system delegated completion responsibility to everyone in management on all levels. A GM of a property saw in simple graphs their domains success or failures. Same went for regional managers and corporate.
-* Wyndham Worldwide (Days Inn, Microtel, Ramada, etc) GM management on-boarding
-* Wyndham Worldwide Latin America
-* Super 8 Hotels (all employees across 2,000+ properties)
-* The Cosmopolitan of Las Vegas
+### Training Systems Created
+Why we were successful: Our system delegated completion responsibility to everyone in management on all levels. A GM of a property saw in simple graphs their domains success or failures. Same went for regional managers and corporate. Everyone could drill down into the data.
+* [Wyndham Worldwide](http://www.wyndhamworldwide.com/)
+* [Super 8 Hotels](http://www.super8.com/) (all employees across 2,000+ properties)
+* [The Cosmopolitan of Las Vegas](http://www.cosmopolitanlasvegas.com/)
 * [International Market Centers](http://www.imcenters.com/)
 
 ### Management Philosophy
-Just like our systems focused on delegation and incremental successes same goes for my management philosophy. Know who is capable of what and let them shine.  
+Similar to how our systems focused on delegation and incremental successes, same goes for his management philosophy. Know who is capable of what and let them shine.  
 * Deploy early, deploy often, encourage accountability 
 * Docs, read and write them.
 * Agile this, agile that.
-* Always more than one way to skin a cat (sorry internet).  
+* Always more than one way to skin a cat.  
 * Always an exception to the rule. (like jay walking).  
 * Nothing is ever perfect, but it better be your best.  
 
@@ -31,7 +28,7 @@ Philosophy in general Aristotle: Fill your tilos
 
 ####Entrepreneur Advisors
 **Ryan Carson**  
-CEO Treehouse  
+CEO [Treehouse](http://teamtreehouse.com/)  
 > “Nate is an extremely dedicated yet humble entrepreneur. I believe he will succeed!”
 
 **David Nelsen**  
@@ -48,7 +45,7 @@ Speaking | [Node.js](http://nodejs.org/) | `Linux` | [NGINX](http://wiki.nginx.o
 ### [NodeSummit Speech](http://bit.ly/1q2tihd)  
 Spoke to 500+ leading technology engineers from eBay, GroupOn, Walmart and many more at [NodeSummit](http://nodesummit.com/speakers/) ([Presentation [video]](http://bit.ly/1q2tihd)) talking about the cutting-edge technologies used for [Coursetto](http://coursetto.com) in San Francisco, Dec 2013.
 
-### [PDX EdTech Organizer](http://www.meetup.com/PDXedTech/)  
+### [PDX EdTech Creator](http://www.meetup.com/PDXedTech/)  
 Group to collaborate with anyone who is working or is interested in working in the Educational Technology space including designers, developers, content creators, and business leaders. 92 members to date. [link](http://www.meetup.com/PDXedTech/)  
 
 ### [Press: Training made easy](http://www.bizjournals.com/portland/print-edition/2014/06/20/training-made-easy.html)  
