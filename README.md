@@ -33,13 +33,13 @@ CEO [Treehouse](http://teamtreehouse.com/)
 > “Nate is an extremely dedicated yet humble entrepreneur. I believe he will succeed!”
 
 **David Nelsen**  
-Last venture was Giftango, Sold to InComm  
+Last venture was Giftango, Sold to InComm 50mm+  
 > "Coursetto has motivated entrepreneurs trying to build something great. Analyzing to see what potential exists in the space; will be more interested if the research for market-opportunity comes back interesting."  
 
 ###Skills  
 #####Code, design, manage, and create.
 -------
-Speaking | [Node.js](http://nodejs.org/) | `Linux` | [NGINX](http://wiki.nginx.org/Main) | `MVC` | `JavaScript` | [AngularJS](http://angularjs.org/) | [jQuery](http://jquery.com) | `git` | [github](https://github.com/nategeier) | `HTML5` | `CSS3 + animations` | `Jade` | `Stylus` | [Express.js](http://expressjs.com/) | `NoSQL (MongoDB + Mongoose)` | `MySQL` | [AngularJS](http://angularjs.org/) | [Bootstrap (Responsive CSS)](http://getbootstrap.com/css/) | [Sass (CSS with superpowers)](http://sass-lang.com/) | [Foundation (Responsive CSS)](http://foundation.zurb.com/) | `Design` | `Project Management` | `Budgets` | `Information Architecture` | `Client Management` | `Agile management` | `After Effects`
+`Client Management | `Agile Product Management` | [Node.js](http://nodejs.org/) | `Linux` | [NGINX](http://wiki.nginx.org/Main) | `MVC` | `JavaScript` | [AngularJS](http://angularjs.org/) | `Github` | [github](https://github.com/nategeier) | `CSS3 + animations` | `NoSQL (MongoDB + Mongoose)` | `MySQL` | [Bootstrap (Responsive CSS)](http://getbootstrap.com/css/) | `Design` | `Budgets` | `Information Architecture` | `After Effects` | `Sales` | `Public Speaking`
 
 
 
