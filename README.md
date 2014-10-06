@@ -50,8 +50,7 @@ Spoke to 500+ leading technology engineers from eBay, GroupOn, Walmart and many 
 Group to collaborate with anyone who is working or is interested in working in the educational technology space including designers, developers, content creators, and business leaders. 135 members to date. [link](http://www.meetup.com/PDXedTech/)  
 
 ### Press  
-#####Portland Business Journal 6/20/14  
-[Training made easy](http://www.bizjournals.com/portland/print-edition/2014/06/20/training-made-easy.html)  
+Portland Business Journal 6/20/14 [Training made easy](http://www.bizjournals.com/portland/print-edition/2014/06/20/training-made-easy.html)  
 
 #####
 [Meet The Founder](http://www.meetthefounder.co/post/97597715274/meet-the-founder-of-coursetto)
